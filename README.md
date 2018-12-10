@@ -1,10 +1,12 @@
 # Attention
 
-## This is a custom fork, do no clone or download!
+## This is a custom fork, do not clone or download!
 
 knbknb 2018-12-10
 
 ## Please switch to the 'develop' Branch!
+
+or check out to the ["official" vis repository](https://github.com/almende/vis)
 
 Obligatory, minimal info text:
 
